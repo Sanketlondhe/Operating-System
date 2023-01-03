@@ -1,0 +1,3 @@
+# gcc exec.c -o exec
+# gcc EXECDemo.c -o EXECDemo
+# ./EXECDemo
